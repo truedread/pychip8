@@ -1,7 +1,7 @@
 # pychip8
 A CHIP-8 emulator written in Python
 
-## Usage
+# Usage
 
 To use, you need some CHIP-8 ROMs, which can be downloaded here: https://www.zophar.net/pdroms/chip8/chip-8-games-pack.html. Simply run `main.py` with the path to a CHIP-8 ROM as a positional argument, like so:
 
@@ -15,7 +15,7 @@ $ python3 main.py c8games/PONG
 2020-01-01 05:55:26 PM - root - INFO - Begin main event loop
 ```
 
-## Arguments
+# Arguments
 Of course, there are additional arguments for customization:
 ```
 positional arguments:
@@ -38,6 +38,6 @@ optional arguments:
   -d, --debug           Debug logging (default false)
 ```
 
-## Installation
+# Installation
 
 To install dependencies, clone the repository and run `pip install -r requirements.txt`.
